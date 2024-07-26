@@ -14,7 +14,14 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="Teja's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitejainampudi" />
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Teja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saitejainampudi&show_icons=true&hide_border=true" />
 
 </details>
 
