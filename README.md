@@ -11,6 +11,12 @@
 - 📫 How to reach me: Instagram(@saitejainampudi)
 - 😄 Pronouns: He/Him
 
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+
+</details>
 
 [linkedin]: https://linkedin.com/in/saitejainampudi
 [instagram]: https://www.instagram.com/saitejainampudi/
