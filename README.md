@@ -3,7 +3,6 @@ I am a Developer, Designer, Creator,  Prompt Engineer and Start-up Innovator!! <
 
 I am an accomplished individual with a proven track record in various roles. From being an Intern and Technical Team Member at Govada Creations to my current position as Joint Secretary and Chief Technology Officer at Krishna's Mart. My journey has encompassed innovative contributions, strategic leadership, and a passion for excellence. As a Student Member of the Student Tribe, I actively fostered learning and personal growth. I am eager to connect with like-minded professionals to explore new opportunities and make a meaningful impact together.  <br><br>
 🌍  I'm based in Earth <br><br>
-✉️  You can contact me at Insta: @saitejainampudi<br><br>
 🚀  I'm currently working on [Aara Learn-Start-Up](http://aaralearn.com) <br><br>
 🧠  I'm learning MERN Stack <br><br>
 🤝  I'm open to collaborating on Open Source<br><br>
