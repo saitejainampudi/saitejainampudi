@@ -1,5 +1,5 @@
 Hi 👋 My name is Sai Teja Inampudi <br><br>
-I'm a Developer, Prompt Engineer, Start-up Creator and Creator!! <br><br>
+I am a Developer, Designer, Creator,  Prompt Engineer and Start-up Innovator. <br><br>
 
 I am an accomplished individual with a proven track record in various roles. From being an Intern and Technical Team Member at Govada Creations to my current position as Joint Secretary and Chief Technology Officer at Krishna's Mart. My journey has encompassed innovative contributions, strategic leadership, and a passion for excellence. As a Student Member of the Student Tribe, I actively fostered learning and personal growth. I am eager to connect with like-minded professionals to explore new opportunities and make a meaningful impact together.  <br><br>
 🌍  I'm based in Earth <br><br>
