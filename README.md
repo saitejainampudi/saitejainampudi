@@ -1,7 +1,7 @@
 Hi 👋 My name is Sai Teja Inampudi <br><br>
-I am a Developer, Designer, Creator,  Prompt Engineer and Start-up Innovator!! <br><br>
+I am a Designer, Developer, Creator!! <br><br>
 
-I am an accomplished individual with a proven track record in various roles. From being an Intern and Technical Team Member at Govada Creations to my current position as Joint Secretary and Chief Technology Officer at Krishna's Mart. My journey has encompassed innovative contributions, strategic leadership, and a passion for excellence. As a Student Member of the Student Tribe, I actively fostered learning and personal growth. I am eager to connect with like-minded professionals to explore new opportunities and make a meaningful impact together.  <br><br>
+I am a versatile professional with a strong foundation in technology, leadership, and creative problem-solving, now channeling my skills and passion into UI/UX design. My journey has included impactful roles such as Joint Secretary at Govada Creations, where I introduced over 50 young individuals to theater and managed large-scale cultural events, and Technical Lead - Startup at Krishna's Mart, where I implemented strategic tech solutions. <br><br>
 - 🌍  I'm based in Earth
 - 🚀  I'm currently working on [Aara Learn-Start-Up](http://aaralearn.com)
 - 🧠  I'm learning MERN Stack
